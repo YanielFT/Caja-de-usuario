@@ -21,7 +21,7 @@ body{
     justify-content: center;
 }
 .card{
-    margin-top: 2rem;
+    margin: 2rem 0;
     max-width: 28rem;
     width: 90%;
     z-index: 100;
